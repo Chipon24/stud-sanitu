@@ -83,7 +83,7 @@ const post = {
         ]
       },
       {
-        title: 'Description',
+        title: 'Опис',
         name: 'description',
         type: 'text'
       }
